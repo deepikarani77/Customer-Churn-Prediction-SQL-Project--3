@@ -1,6 +1,6 @@
-✨ Excited to share my latest project! ✨
+✨ **Excited to share my latest project**! ✨
 
-Project Name: Customer-Churn-Prediction SQL Project Working with database and tables
+**Project Name: Customer-Churn-Prediction SQL Project Working with database and tables**
 
 🚀 **Problem Statement**
 
