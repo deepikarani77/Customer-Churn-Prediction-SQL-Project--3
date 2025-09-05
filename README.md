@@ -100,7 +100,7 @@
 
 🚀 **Skills**
 
-**SQL MySQL Database Design Data Manipulation Churn Analysis ETL Business Insights**
+- **SQL MySQL Database Design Data Manipulation Churn Analysis ETL Business Insights**
 
 **#SQL #MySQL #CustomerChurn #DataScience #DataAnalytics #SQLProject 
 #DatabaseDesign #ChurnPrediction #Freshers #PortfolioProject #DataScientist**
